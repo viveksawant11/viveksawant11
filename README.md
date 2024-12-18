@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Sawant</h1>
-<h3 align="center">A passionate Software Engineer & Web Developer from India</h3>
+<h3 align="center">A passionate Software Engineer & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksawant11&label=Profile%20views&color=0e75b6&style=flat" alt="viveksawant11" /> </p>
 
